@@ -21,3 +21,5 @@ This API is used to calculate the total of payment but already included to calcu
 For testing this rest-api there is two option via unit test and via rest-api(I use Postman)
 - To run via unit test, just write "mocha" in the command prompt
 - To run via rest-api, you should import the json to postman, then you can use to test the rest-api
+
+---------********--------
